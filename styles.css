@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(220, 245, 245);
+}
+
+h1 {
+    font-family: monospace, Helvetica, sans-serif;
+    display: block; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    color: rgb(103, 63, 169);
+    border: solid rgb(47, 165, 225);
+    border-width: .15rem;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+ h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: monospace, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: rgb(118, 92, 206)
+    }
+
+#link {
+        text-align: center;
+        text-transform: bold;
+    }
+
+table {
+    width: 800;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-spacing: 3px;
+    display: table;
+    text-align: center;
+    border: 3px solid rgb(29, 69, 130);
+}
+
+thead{
+    background-color: aquamarine;
+    font-family: monospace, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-transform: bold;
+}
+
+td {
+  border-left: solid 2px rgb(138, 65, 141);
+  border-bottom: solid 2px rgb(138, 65, 141);
+}
+
+.codeshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    margin-top: 20px;
+}
+
+.bottom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    margin-top: 20px;
+}
+
+#imghead {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-size: large;
+    color: rgb(55, 39, 122);
+}
